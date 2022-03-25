@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [nathanflsmith.com](https://nathanflsmith.com)
 
-- 📝 I regularly write articles on [blog.nathanflsmith.com](https://blog.nathanflsmith.com)
-
 - 📫 How to reach me **nathan.fl.smith@gmail.com**
 
 - 📄 Know about my experiences [nathanflsmith.com/resume](https://nathanflsmith.com/resume)
