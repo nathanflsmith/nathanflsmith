@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">An aspiring Full-Stack Web Developer, mathematician and language-learner.</h3>
 
-- 🔭 I’m currently working on [nathanflsmith.com](https://github.com/nathanflsmith/nathanflsmith.com)
+- 🔭 I’m currently working on [nathanflsmith.me](https://github.com/nathanflsmith/nathanflsmith.com)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **SysAdmin**
 
-- 👨‍💻 All of my projects are available at [nathanflsmith.com](https://nathanflsmith.com)
+- 👨‍💻 All of my projects are available at [nathanflsmith.me](https://nathanflsmith.me)
 
 - 📫 How to reach me **nathan.fl.smith@gmail.com**
 
 - 📄 Know about my experiences [nathanflsmith.com/resume](https://nathanflsmith.com/resume)
 
-- ⚡ Fun fact **When I'm not coding, I'm likely running, reading or learning a language.**
+- ⚡ Fun fact **I enjoy to learn about Linux systems**
 
 
 <h3 align="left">Languages and Tools:</h3>
