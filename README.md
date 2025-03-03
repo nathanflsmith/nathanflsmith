@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">An aspiring Full-Stack Web Developer, mathematician and language-learner.</h3>
 
 - 🔭 I’m currently working on [nathanflsmith.me](https://github.com/nathanflsmith/nathanflsmith.com)
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **nathan.fl.smith@gmail.com**
 
-- 📄 Know about my experiences [nathanflsmith.com/resume](https://nathanflsmith.com/resume)
+- 📄 Know about my experiences [nathanflsmith.me/resume](https://nathanflsmith.me/resume)
 
 - ⚡ Fun fact **I enjoy to learn about Linux systems**
 
